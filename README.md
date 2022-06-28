@@ -6,3 +6,5 @@
 
 --- 
 # Dataset
+---
+### The dataset set used in this project is of the forest fire data of Montesinho park and is available in most open source data websites such [Kaggle](https://www.kaggle.com/)
